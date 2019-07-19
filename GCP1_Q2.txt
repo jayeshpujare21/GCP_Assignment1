@@ -1,0 +1,16 @@
+Q2.
+	list down all configurations:
+		gcloud config list
+
+	create new congfiguration
+		gcloud config configurations create new-config
+
+	to set email.id
+		 gcloud config configurations activate default
+
+	to set project
+		gcloud config set core/project pe-training
+
+	To switch between configurations
+		gcloud config configurations activate default
+

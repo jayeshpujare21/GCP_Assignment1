@@ -1,0 +1,37 @@
+Q4.
+Creating Service Account
+
+
+    Open the Service Accounts page in the GCP Console.
+
+    Click Select a project.
+
+    Select your project and click Open.
+
+    Click Create Service Account.
+
+    Enter a service account name, an optional description, select a role you wish to grant to the service account, and then click Save.
+
+    After you create a service account, Grant this service account access to project-> Storage -> Storage Object Viewer.
+
+Creating VM instance
+
+
+    Go to the VM instances page.
+
+    Select your project and click Continue.
+
+    Click the Create instance button.
+
+    Specify a Name for your instance.
+
+    Optionally, change the Zone for this instance
+
+    Select a Machine configuration for your instance.
+
+    In the OS images tab, choose an image.
+
+    To permit HTTP or HTTPS traffic to the VM instance, select Allow HTTP traffic or Allow HTTPS traffic.
+
+    Click the Create button to create and start the instance.
+

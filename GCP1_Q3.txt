@@ -1,0 +1,7 @@
+Q3.
+
+	To list out available API services
+		gcloud services list --available
+
+	To list out enabled API services
+		gcloud services list --enabled
